@@ -1,0 +1,36 @@
+* Investing
+** accounting
+- double entry booking system
+- credit / debit on accounting ledger
+  - debit means plus, credit means minus
+  - it doesn't mean asset is increasing, it depends on what account the ledger is about
+    if it's liability ledger, debit means increasing liability
+- liability
+  usually means the future obligation for minus action
+  which isn't incurred at the time of recording the entry
+  - bank's checking account is an asset to a customer, and a liability to the bank
+    certain portion of the amount are immediate liability, because bank is obligated to give up immediately when required
+- receivable / payable
+  signifies it's plus / minus in the future
+- expense account
+  It's a placeholder that records spending that does not result in asset increase
+  For example, when you take a bus, the spending is gone
+
+  Note that we are balancing debit / credit with hypothetical placeholder entry and keeping the double entry requirements.
+  Even though we are keeping it balanced, the system interprets such hypothetical entry and is closed out to retained earnings in a permanent equity account
+
+  By recording both debit/credit required by double entry booking system, it enforces to record how those changes (here expenses) afftected the inflow / outflow from the accounting entity and the outside world
+
+  The non existing change (debit or credit) is called paper changes
+
+** Money creation by FR
+
+- goverment issues bonds (i need money)
+- bonds is auctioned
+- commercial banks or FR buys the bonds
+- when FR buys bonds, (they typically buy through commercial banks)
+  their accounting ledger has
+  - purchased bond as debit
+  - purchase money to the commercial bank as credit
+  - this purchased money has no source, it's not deducted from an another existing account
+    so this effectively creates money out of thin air
